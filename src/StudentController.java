@@ -1,7 +1,7 @@
-public class StudentController{
+public class StudentController {
 
     public void controller(){
-        // TO DO
+        System.out.println("Controlador actualizado por el Responsable");
     }
 
 }
